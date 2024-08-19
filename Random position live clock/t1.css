@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(44, 46, 58);
+    font-size:62.5%;
+}
+
+.clock {
+    font-size: 2rem;
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #000;
+    padding: 3px 5px;
+    outline:solid 10px #fff ;
+    position: absolute;
+}
